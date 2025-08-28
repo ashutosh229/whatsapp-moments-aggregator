@@ -1,0 +1,141 @@
+10/06/2025, 3:30 pm - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+14/06/2025, 8:11 pm - Ashutosh Kumar Jha: Hey chirag
+14/06/2025, 8:11 pm - Chirag Hira Mentor Me: Hii
+14/06/2025, 8:11 pm - Ashutosh Kumar Jha: send the sheet in the group once so that everyone of us can see and extract the ideas
+14/06/2025, 8:11 pm - Chirag Hira Mentor Me: Okay
+21/06/2025, 8:15 pm - Chirag Hira Mentor Me: <Media omitted>
+21/06/2025, 8:17 pm - Chirag Hira Mentor Me: This is the Use Case Diagram I have developed. Could you please check whether it is correct and confirm if we are proceeding in the right direction?
+21/06/2025, 11:01 pm - Ashutosh Kumar Jha: This seems very nice. I will once more understand it and verify it in details and then inform you about it by tomorrow
+21/06/2025, 11:45 pm - Chirag Hira Mentor Me: Okay sure
+24/06/2025, 12:10 am - Ashutosh Kumar Jha: Hey
+24/06/2025, 12:10 am - Chirag Hira Mentor Me: Hello
+24/06/2025, 12:10 am - Ashutosh Kumar Jha: Ansh mentioned that you guys had some discussion regarding the workflow of the application. Can you please once provide me the final details
+24/06/2025, 12:11 am - Chirag Hira Mentor Me: Yaa sure
+24/06/2025, 12:11 am - Chirag Hira Mentor Me: l also make flow diagram and update the use case diagram
+24/06/2025, 12:12 am - Chirag Hira Mentor Me: Right now
+24/06/2025, 12:20 am - Chirag Hira Mentor Me: <Media omitted>
+24/06/2025, 12:20 am - Chirag Hira Mentor Me: <Media omitted>
+24/06/2025, 12:32 am - Ashutosh Kumar Jha: Nice. Seems good. I will once check it in details and if any doubts arise, then we will discuss it once.
+24/06/2025, 12:32 am - Chirag Hira Mentor Me: Okay sure
+25/06/2025, 6:39 pm - Chirag Hira Mentor Me: Hey any update??
+25/06/2025, 7:43 pm - Ashutosh Kumar Jha: Yeah I saw both the diagrams and I think everything seems fine. There should not be any issues. But I am still thinking about the tech stack which we should use
+25/06/2025, 8:52 pm - Chirag Hira Mentor Me: Okay
+25/06/2025, 8:53 pm - Chirag Hira Mentor Me: We can conduct a meeting to final the tech stack <This message was edited>
+26/06/2025, 11:53 am - Ashutosh Kumar Jha: Yeah I am also thinking that we should conduct a meeting in order to do so. But before that, I am also thinking to ask everyone on the group in which domain they will be suitable, frontend or backend, to get the idea of the amount of people we have for both <This message was edited>
+26/06/2025, 2:12 pm - Chirag Hira Mentor Me: I agree
+26/06/2025, 5:14 pm - Chirag Hira Mentor Me: And progress ko speed up kar te hai nai
+26/06/2025, 10:31 pm - Chirag Hira Mentor Me: Hey
+26/06/2025, 10:32 pm - Ashutosh Kumar Jha: Hey.
+Yeah I can understand that it is taking time and it is important for speeding up. I am right now arranging a poll on the group so that people can vote in which domain they are comfortable.
+26/06/2025, 10:32 pm - Ashutosh Kumar Jha: Actually I was also busy today and that's why I could not respond
+26/06/2025, 10:33 pm - Chirag Hira Mentor Me: Mannatpreet just text me and asking for progress report
+26/06/2025, 10:34 pm - Chirag Hira Mentor Me: I send these diagrams and tell that by Sunday EOD we will the design phase
+26/06/2025, 10:35 pm - Chirag Hira Mentor Me: Okay no problem
+26/06/2025, 10:36 pm - Ashutosh Kumar Jha: Yeah good. I am also dropping a message on the group about the progress so that every one is informed and also mannatpreet gets to know about things in detail
+26/06/2025, 10:41 pm - Chirag Hira Mentor Me: Frontend developer khon hai apne team me
+26/06/2025, 10:42 pm - Chirag Hira Mentor Me: Aditi and ..
+26/06/2025, 10:47 pm - Ashutosh Kumar Jha: I remember one guys was there in the meet I guess karthik
+26/06/2025, 10:47 pm - Ashutosh Kumar Jha: He mentioned that he is good with frontend
+26/06/2025, 10:52 pm - Chirag Hira Mentor Me: Okay got it
+26/06/2025, 11:36 pm - Ashutosh Kumar Jha: Yeah
+26/06/2025, 11:38 pm - Ashutosh Kumar Jha: Btw right now are you working in some company, since you mentioned on the meet that you are a passout? <This message was edited>
+26/06/2025, 11:39 pm - Chirag Hira Mentor Me: Not now in next month
+26/06/2025, 11:40 pm - Chirag Hira Mentor Me: I selected as a intern in MPSEDC
+27/06/2025, 11:00 pm - Chirag Hira Mentor Me: https://meet.google.com/wrk-gvjq-dvd
+27/06/2025, 11:05 pm - Chirag Hira Mentor Me: hey can we have a meeting tomorrow its important
+28/06/2025, 4:54 pm - Chirag Hira Mentor Me: ??
+28/06/2025, 7:16 pm - Ashutosh Kumar Jha: Hey. Really sorry I was travelling today. Is the meet done ?
+28/06/2025, 7:23 pm - Chirag Hira Mentor Me: No was planning at 10pm
+28/06/2025, 7:24 pm - Chirag Hira Mentor Me: So it's possible if you can join
+28/06/2025, 8:31 pm - Ashutosh Kumar Jha: Yes I will
+28/06/2025, 8:31 pm - Ashutosh Kumar Jha: Thanks for informing
+01/07/2025, 11:24 pm - Ashutosh Kumar Jha: We have to start planning the skeleton for the frontend codebase as well as the architecture for the backend, because if we want to collaboratively develop the application, we have to follow the same standards, conventions, flow, etc.
+02/07/2025, 12:50 am - Chirag Hira Mentor Me: Yes correct I agree
+02/07/2025, 12:52 am - Chirag Hira Mentor Me: Mene temple ka work Sonalika ko de Diya hai.
+Jase hame templates mil te hai we can start our frontend work
+05/07/2025, 12:08 pm - Chirag Hira Mentor Me: This message was deleted
+05/07/2025, 12:09 pm - Chirag Hira Mentor Me: This message was deleted
+05/07/2025, 12:09 pm - Chirag Hira Mentor Me: This message was deleted
+07/07/2025, 2:40 pm - Ashutosh Kumar Jha: Hey. Really sorry for not answering the messages
+07/07/2025, 2:41 pm - Ashutosh Kumar Jha: Actually I was busy with my intern and then had to travel which caused the communication gap.
+07/07/2025, 2:41 pm - Ashutosh Kumar Jha: Did sonalika reply to you
+07/07/2025, 2:42 pm - Ashutosh Kumar Jha: what is the status of the design ?
+07/07/2025, 5:09 pm - Chirag Hira Mentor Me: Yes was suffering from cold that's not give design
+07/07/2025, 5:45 pm - Chirag Hira Mentor Me: She
+08/07/2025, 8:29 pm - Chirag Hira Mentor Me: Hey I want to ask something
+08/07/2025, 11:19 pm - Ashutosh Kumar Jha: Yeah
+08/07/2025, 11:20 pm - Ashutosh Kumar Jha: Regarding today's meeting, I was not able to attend it today since I was out of home. Wanted to inform you earlier but could not do so. Will surely take care from the next time.
+09/07/2025, 7:25 am - Chirag Hira Mentor Me: Okay no problem
+09/07/2025, 7:25 am - Chirag Hira Mentor Me: But I am asking about GitHub repository
+09/07/2025, 2:31 pm - Ashutosh Kumar Jha: yeah
+09/07/2025, 2:31 pm - Ashutosh Kumar Jha: we have to make the repo and also keep some maintainer for it
+09/07/2025, 3:54 pm - Chirag Hira Mentor Me: And it should be public or private
+09/07/2025, 8:34 pm - Ashutosh Kumar Jha: We will keep it private only
+09/07/2025, 8:58 pm - Chirag Hira Mentor Me: Okay so repo bana rahe ya me bana do
+12/07/2025, 3:07 pm - Chirag Hira Mentor Me: Bhai kab tak free hoga boor jaroorat par rahi hai aap ki🥹🥲
+16/07/2025, 6:08 pm - Chirag Hira Mentor Me: ??
+17/07/2025, 7:46 pm - Ashutosh Kumar Jha: Really sorry bhai.. Actually meri internship start hogayi hain full time so uski wajah se bahaut hectic horaha hain sab kuch..I am not even getting the time to prepare for interns and placements. By EOD I will explain everything like why I was not being active these days.
+17/07/2025, 7:47 pm - Chirag Hira Mentor Me: Mentor me choor rahe ho kya?
+17/07/2025, 7:47 pm - Chirag Hira Mentor Me: I mean leave to nai kar rahe ho na?
+17/07/2025, 7:48 pm - Ashutosh Kumar Jha: Nahi nahi...meri ek jagah pe full time intern start hogayi hain so uski wajah se mujhe time nahi milparaha hain but I will adjust things accordingly. I will explain to you everything like whats and how.
+17/07/2025, 7:55 pm - Chirag Hira Mentor Me: Okay
+22/07/2025, 12:00 pm - Chirag Hira Mentor Me: Hey
+22/07/2025, 12:00 pm - Chirag Hira Mentor Me: Aaj meeting me join ho payo gaye kya
+22/07/2025, 10:16 pm - Ashutosh Kumar Jha: Actually main ghar pe nahi hun..bahar hun so uske wajah se issue hoga attend karne mein but I will try. Really sorry for that. I have been involved in some problems since some of the last few days, that's why I could not even respond to the groups and all but now things are somewhere stable. I will soon connect with Ansh. Can you please provide me the details of the meeting today. And also the current progress of the website so that I can understand.
+22/07/2025, 10:17 pm - Chirag Hira Mentor Me: Okay I will provide you after the meeting
+23/07/2025, 2:29 pm - Chirag Hira Mentor Me: Yrr kab se work start kar payo gaye
+23/07/2025, 6:22 pm - Chirag Hira Mentor Me: Yrr group me Jo form aaya hai use fill kar do
+23/07/2025, 6:23 pm - Chirag Hira Mentor Me: Use ke according he offers letter milege
+25/07/2025, 2:13 pm - Ashutosh Kumar Jha: Hey. Sorry for replying lately. Actually I was travelling for 2 days and reached the college yesterday and took time for settling and all. Today was my registration for the upcoming semester and therefore most of the time went into it. Before some days, I was engaged into some personal problems related to medical issues and all and therefore was inactive and before that my full time (8 hr) internship started so I was not able to get time and took time to make things settled and stable and adapt to everything. Due to the above mentioned issues, I was unable to communicate with you and the team properly, able to attend meetings, etc. But now the things have become a little stable. I hope you can understand. 
+
+For the sake of understanding the work done and will be done in the future, can you please provide me the following information: 
+
+1. Work done till now 
+2. Will be done in the upcoming days 
+3. People we have in the backend team because mostly I will be working on the backend system (and I guess you too have the same position)
+4. Any other information which you would like to provide. <This message was edited>
+25/07/2025, 2:16 pm - Ashutosh Kumar Jha: Regarding that, firstly I would like to state that I was unable to do so due to the issues mentioned above. I hope you can understand the pressure which I was having due to which I was unable to be active. Secondly,  I would like to ask about the alternatives for this if you can please provide.
+26/07/2025, 4:37 pm - Chirag Hira Mentor Me: Can you join today meet
+26/07/2025, 8:29 pm - Ashutosh Kumar Jha: Yes I will
+26/07/2025, 8:54 pm - Ashutosh Kumar Jha: duration of meet?
+26/07/2025, 8:56 pm - Ashutosh Kumar Jha: also send the meet link in the group once
+26/07/2025, 11:01 pm - Ashutosh Kumar Jha: ashutosh229
+GitHub I'd
+30/07/2025, 12:32 am - Chirag Hira Mentor Me: accept the invitation otherwise is expired
+30/07/2025, 10:17 am - Ashutosh Kumar Jha: Accepted
+02/08/2025, 1:57 pm - Ashutosh Kumar Jha: Hey I have pushed a test branch in the repo in order to setup the repo and the workflow
+02/08/2025, 1:57 pm - Ashutosh Kumar Jha: Dont merge it
+02/08/2025, 1:57 pm - Ashutosh Kumar Jha: also what sort of work is left
+02/08/2025, 1:57 pm - Ashutosh Kumar Jha: are we maintaining some tickets and al
+02/08/2025, 1:57 pm - Ashutosh Kumar Jha: for assigning work to people
+02/08/2025, 2:27 pm - Chirag Hira Mentor Me: Okay got it
+02/08/2025, 2:27 pm - Chirag Hira Mentor Me: Can we have a call at evening
+03/08/2025, 12:47 pm - Ashutosh Kumar Jha: Hey Chirag. I was a bit busy in the evening yesterday and therefore could not respond properly. If feasible for you today, then can we have the meeting today, or can we just discuss the details on the text
+03/08/2025, 6:07 pm - Chirag Hira Mentor Me: Today not possible we can discuss tomorrow
+03/08/2025, 6:07 pm - Chirag Hira Mentor Me: Accha
+03/08/2025, 6:07 pm - Chirag Hira Mentor Me: Ek kam kar do gaye kya
+05/08/2025, 1:49 pm - Ashutosh Kumar Jha: Kam bol diya kar directly..i will do it and if i cant then i will respond back to you...the schedule is intense in 5th semester so i am facing difficulty in adjustments..therefore koi bhi kam ho kabhi bhi bus woh text karde directly...i will do it and get back to you and if not then respond back with the same.
+05/08/2025, 1:50 pm - Ashutosh Kumar Jha: Moreover, are we using rebase/merge ? 
+which strategy because i mostly use rebase..it make things easier '
+05/08/2025, 2:01 pm - Chirag Hira Mentor Me: Merge
+05/08/2025, 2:01 pm - Chirag Hira Mentor Me: Aaj sham ko connect kar te hai
+05/08/2025, 2:01 pm - Chirag Hira Mentor Me: 7 pm
+05/08/2025, 2:01 pm - Chirag Hira Mentor Me: It's that okay to you
+05/08/2025, 7:24 pm - Ashutosh Kumar Jha: 7:30 pm works ?
+05/08/2025, 7:59 pm - Chirag Hira Mentor Me: Meet ke just baad <This message was edited>
+05/08/2025, 8:00 pm - Chirag Hira Mentor Me: It's hardly take 5 to 10 min
+10/08/2025, 2:40 pm - Ashutosh Kumar Jha: Hey Chirag. 
+I hope you are fine. As you can see, I am unable to attend the meetings since some last few days. Due to the high academic load, preparation for internships and placements, some side hustles and other stuff, I am unable to give time to the scheduled meetings, plus I have been unhealthy since the last few days. I want to ask you if there is right now some work which I can do in the site, so that I can push my changes and you can merge those changes and the work could proceed further. Thanks for your time and consideration.
+11/08/2025, 10:25 am - Chirag Hira Mentor Me: Okay me tume bata deta ho ki kya work hai
+11/08/2025, 10:26 am - Chirag Hira Mentor Me: Tune changes push karke muje inform kar na
+13/08/2025, 11:52 am - Ashutosh Kumar Jha: Group mein jo design references hain unmein se kaunsa finalize karna hain bro
+13/08/2025, 2:09 pm - Chirag Hira Mentor Me: Jo bhi tum log ko suitable lage
+13/08/2025, 2:10 pm - Chirag Hira Mentor Me: Reference leke apne hisab se dekh lo
+24/08/2025, 11:13 pm - Chirag Hira Mentor Me: Hey
+24/08/2025, 11:13 pm - Chirag Hira Mentor Me: Plzz add display animation in our value section
+24/08/2025, 11:14 pm - Chirag Hira Mentor Me: And also plzz try to join the meet
+25/08/2025, 2:12 pm - Ashutosh Kumar Jha: Ok. I will raise the PR, mostly today, once I am done with the thing.
+25/08/2025, 3:01 pm - Ashutosh Kumar Jha: what short of display animation should be added
+25/08/2025, 3:02 pm - Ashutosh Kumar Jha: i mean are there any specifications or requirements
+25/08/2025, 3:15 pm - Ashutosh Kumar Jha: PR raised
+25/08/2025, 3:15 pm - Ashutosh Kumar Jha: review and merge

@@ -1,0 +1,7 @@
+pandas 
+scapy 
+emoji
+Pillow
+spacy
+nltk
+pymongo  
