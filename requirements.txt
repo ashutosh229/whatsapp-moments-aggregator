@@ -4,4 +4,8 @@ emoji
 Pillow
 spacy
 nltk
-pymongo  
+pymongo 
+sentence_transformers 
+umap 
+hdbscan 
+scikit-learn
