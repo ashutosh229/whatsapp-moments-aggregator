@@ -44,3 +44,11 @@ def save_json(obj, name: str):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, default=str, ensure_ascii=False, indent=2)
     print(f"[saved] {path}")
+
+
+def ensure_dt(df):
+    if "Datetime" not in df.columns:
+        raise ValueError("No 'Datetime' column found.")
+    df = df.copy()
+    df["Datetime"] = pd.to_datetime(df["Datetime"], errors="coerce")
+    return df
